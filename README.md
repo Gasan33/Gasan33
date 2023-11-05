@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gasan Mansor
+- 👋 Hi, I’m @Gasan Mansour
 - 👀 I’m interested in Programming Mobile Applicatons
 - ✨ I am currently working with Flutter and Dart to design mobile applications
 - 🌱 I’m currently learning Laravel
